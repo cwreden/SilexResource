@@ -1,0 +1,19 @@
+{
+    "name": "cwreden/silex-resource",
+    "description": "Silex based resource documentation provider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cwreden",
+            "email": "christian.wreden@googlemail.com"
+        }
+    ],
+    "require-dev": {
+        "silex/silex": "1.*"
+    },
+    "autoload": {s
+        "psr-0": {
+            "cwreden": "src/"
+        }
+    }
+}
